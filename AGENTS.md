@@ -1,1 +1,1 @@
-Add agent instructions for Codex
+See CLAUDE.md.
